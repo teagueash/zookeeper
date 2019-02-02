@@ -10,3 +10,9 @@ You are a zookeeper. One of your rare South Pacific Tufted Wizzo lizards (Tuftic
 
 In addition to baby lizards, your nursery may have some trees planted in it. Your lizards cannot shoot their tongues through the trees nor can you move a lizard into the same place as a tree. As such, a tree will block any lizard from eating another lizard if it is in the path. Additionally, the tree willblock you from moving the lizard to that location.
 
+![Alt text](fig2.png?raw=true "Figure 2")
+
+![Alt text](fig3.png?raw=true "Figure 3")
+
+
+
